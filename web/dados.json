@@ -78,7 +78,7 @@
     },
     "perl": {
     "nome": "Perl",
-        "vantagens": "Excelente capacidade de manipulação de texto e flexibilidade da linguagem",
+        "vantagens": "Excelente capacidade de manipulação de texto e flexibilidade da linguagem.",
         "salarios": {
             "centro-oeste": "\n    - Júnior: R$ 4.200 - R$ 5.500\n    - Pleno:  R$ 8.000 - R$ 10.500\n    - Sênior: R$ 12.500 - R$ 16.000",
             "nordeste": "\n    - Júnior: R$ 3.000 - R$ 4.000\n    - Pleno:  R$ 6.000 - R$ 8.000\n    - Sênior: R$ 9.500 - R$ 13.000",
